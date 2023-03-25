@@ -1,0 +1,14 @@
+{
+  "name": "new_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ravikumar chinnam",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
